@@ -1,4 +1,4 @@
-{
+const news = {
     "data": [
         {
             "news_url": "https://www.pymnts.com/buy-now-pay-later/2021/amazon-barclays-partner-installment-payments-united-kingdom/",
@@ -785,3 +785,5 @@
         }
     ]
 }
+
+module.exports = news;

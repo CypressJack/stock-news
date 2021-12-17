@@ -1,4 +1,4 @@
-{
+const sentiment = {
     "total": {
         "AMZN": {
             "Total Positive": 156,
@@ -243,3 +243,5 @@
     },
     "total_pages": 1
 }
+
+module.export = sentiment;
